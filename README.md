@@ -1,2 +1,9 @@
 # Lorachat Framework
 A framework for lora chat
+This project is base on Lora tecnology, in this project i used a Heltec lora module with oled screen 
+
+- Front
+![Esp32 Heltec module front](https://github.com/dernawy/Lorachat-Framework/raw/main/images/IMG_20260523_145626.jpg)
+
+- Back
+![Esp32 Heltec module back](https://github.com/dernawy/Lorachat-Framework/raw/main/images/IMG_20260523_145642.jpg)
