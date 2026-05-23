@@ -11,3 +11,7 @@ This project is base on Lora tecnology, in this project i used a Heltec lora mod
 Demonstration video on youtube:
 
 [![Lora chat demonstration video](https://img.youtube.com/vi/BvSGT1AXDRU/0.jpg)](https://www.youtube.com/watch?v=BvSGT1AXDRU)
+
+- Android Application:
+
+Can be found on this link https://github.com/dernawy/LoraChat-App
